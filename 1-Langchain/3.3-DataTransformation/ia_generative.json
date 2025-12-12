@@ -1,0 +1,34 @@
+{
+  "documents": [
+    {
+      "id": 1,
+      "title": "Introduction à l'IA générative",
+      "content": "L'intelligence artificielle générative est un domaine de l'IA qui se concentre sur la création de nouveaux contenus tels que du texte, des images, du son ou même du code. Contrairement aux modèles discriminants, qui apprennent à classer ou prédire des données, les modèles génératifs apprennent les distributions sous-jacentes des données afin de produire des exemples réalistes. L'essor de l'IA générative s'explique par l'arrivée d'architectures avancées comme les GANs et les Transformers."
+    },
+    {
+      "id": 2,
+      "title": "Les modèles GANs",
+      "content": "Les Generative Adversarial Networks (GANs) sont composés de deux réseaux neuronaux : un générateur et un discriminateur. Le générateur tente de produire du contenu réaliste, tandis que le discriminateur essaie de distinguer le vrai contenu du contenu généré. Cette compétition pousse le générateur à s'améliorer. Les GANs sont particulièrement utilisés pour la génération d'images, la création de deepfakes et l'amélioration de résolution d'images."
+    },
+    {
+      "id": 3,
+      "title": "Les modèles Transformers",
+      "content": "Les Transformers ont révolutionné l'IA générative grâce à leur mécanisme d'attention qui permet de traiter efficacement des séquences longues. Des modèles comme GPT, BERT, LLaMA ou T5 utilisent cette architecture pour comprendre, prédire et générer du langage naturel. Le principe clé repose sur l'attention multi-têtes, qui permet de repérer simultanément différents niveaux de relations dans les données."
+    },
+    {
+      "id": 4,
+      "title": "Applications de l'IA générative",
+      "content": "L'IA générative est utilisée dans de nombreux domaines : génération de texte, création artistique, composition musicale, design assisté, simulation 3D, biochimie, développement logiciel et même aide à l'apprentissage. Elle permet de booster la créativité et d'accélérer de nombreux processus industriels. Des outils comme ChatGPT, Midjourney, DALL·E et Stable Diffusion démocratisent ces capacités au grand public."
+    },
+    {
+      "id": 5,
+      "title": "Enjeux éthiques et limites",
+      "content": "L'IA générative soulève des questions importantes : risques de désinformation, deepfakes, biais algorithmiques, protection des données, droits d'auteur et utilisation malveillante. Les modèles génératifs peuvent produire du contenu convaincant mais parfois incorrect, ce qui peut entraîner une perte de confiance ou une mauvaise interprétation. Les politiques de sécurité et le développement responsable sont essentiels pour limiter les abus."
+    },
+    {
+      "id": 6,
+      "title": "L'avenir de l'IA générative",
+      "content": "L'avenir de l'IA générative semble prometteur : modèles multimodaux capables de combiner texte, image, vidéo et son ; agents autonomes ; interface homme-machine avancée ; collaborations créatives homme-IA ; personnalisation en temps réel. Les progrès dans l'efficacité énergétique des modèles et dans les techniques d'entraînement devraient également rendre ces technologies plus accessibles."
+    }
+  ]
+}
